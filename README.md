@@ -46,6 +46,8 @@ I found a go kart in the trash with the illusion of building an electric go kart
 
     ![Deep Learning Architecture](assets/google_deep_learning_architecture.png)
 
+    ![Immersive Nav In-Car.gif](assets/google_immersive_navigation.gif)
+
 </details>
 
 <details><summary>1st author of a <b>U.S. patent</b>.</summary>
