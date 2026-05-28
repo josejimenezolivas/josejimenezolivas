@@ -1,8 +1,6 @@
 <details>
-<summary>Click to expand</summary>
-This is the hidden content that appears when clicked. 
-You can use standard markdown here like **bold** text or lists.
-</details>
+
+<summary>Introduction</summary>
 
 I found a go kart in the trash with the illusion of building an electric go kart and I ended up leading an [autonomous IndyCar](https://www.indyautonomouschallenge.com/) team to push the limits of driverless vehicle dynamics at 160mph (250kmh) as the vehicle state estimation lead winning the podium at [2nd](https://www.linkedin.com/feed/update/urn:li:share:6998441250932621312/) and [3rd](https://www.linkedin.com/feed/update/urn:li:share:7020651602604675072/) place.
 
@@ -56,3 +54,6 @@ I found a go kart in the trash with the illusion of building an electric go kart
 - Bringing personal maps data into [AskMaps](https://youtu.be/5PPiXyAV-Ro?si=YVf_T9X8P8viIlSa), [AI Mode](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_videos/AI_Mode.mp4#t=0.001), and [Gemini](https://storage.googleapis.com/gweb-gemini-cdn/gemini/uploads/35638ed9e1d5c29bddcc987c74a15132a1fb61c7.mp4)
     - **Leading a team of 7 engineers** to build an agentic world simulation to forecast personalized experiences to **2M DAU** in the US & IN.
     - **Humanity first**. Building an AI assistant that is maximally helpful and personal at the Google scale is ethically complex. Privacy is not a compromise, its a design decision.
+
+
+</details>
