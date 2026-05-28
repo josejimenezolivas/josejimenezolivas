@@ -1,3 +1,9 @@
+<details>
+<summary>Click to expand</summary>
+This is the hidden content that appears when clicked. 
+You can use standard markdown here like **bold** text or lists.
+</details>
+
 I found a go kart in the trash with the illusion of building an electric go kart and I ended up leading an [autonomous IndyCar](https://www.indyautonomouschallenge.com/) team to push the limits of driverless vehicle dynamics at 160mph (250kmh) as the vehicle state estimation lead winning the podium at [2nd](https://www.linkedin.com/feed/update/urn:li:share:6998441250932621312/) and [3rd](https://www.linkedin.com/feed/update/urn:li:share:7020651602604675072/) place.
 
 - B.S. Computer Engineering @ UC San Diego
